@@ -1,2 +1,2 @@
-# NewRepository
-New One
+# Scala way
+Sample applications in scala way.
